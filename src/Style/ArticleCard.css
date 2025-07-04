@@ -1,0 +1,19 @@
+.hero-iamge {
+    width: 1180px;
+    margin: 5px 82px;
+    margin-bottom: 1em;
+}
+
+.desc {
+    width: 933px;
+    height: 149px;
+    border-radius: 30px;
+    margin: auto;
+    font-size: 16px;
+    margin-bottom: 6em;
+    font-family: poppins;
+}
+.capitalM{
+    font-size: 66px;
+    font-weight: 400;
+}

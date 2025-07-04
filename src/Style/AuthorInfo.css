@@ -1,0 +1,49 @@
+.author-container {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  margin: 10px 0;
+  width: 384px;
+  height: 53px;
+  margin-bottom: 3em 48px;
+}
+
+.author-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.author-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.author-name {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.author-date {
+  font-size: 16px;
+  color: #777;
+}
+
+.follow-button {
+  padding: 4px 12px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background: white;
+  cursor: pointer;
+  font-size: 16px;
+
+}
+
+.read-time {
+  font-size: 16px;
+  color: #777;
+  margin-left: auto;
+  font-family: poppins;
+  font-weight: 500;
+}

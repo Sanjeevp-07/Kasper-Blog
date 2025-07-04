@@ -1,0 +1,15 @@
+body {
+  max-width: 1347px;
+  margin: 40px auto;
+  padding: 0 16px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.author-name {
+  font-size: 14px;
+  color: #333;
+  font-weight: 500;
+}

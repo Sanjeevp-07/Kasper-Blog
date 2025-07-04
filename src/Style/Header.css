@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  font-family: Poppins;
+  gap: 67px;
+  max-width: 1347px;
+  align-items: center;
+}
+
+.Heading {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 100%;
+  letter-spacing: 0%;
+
+}
+
+header .left-arrow {
+  height: 86px;
+
+  width: 27px;
+}

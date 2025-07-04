@@ -1,0 +1,56 @@
+.author-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 10px 0;
+  width: 448px;
+  height: 53px;
+  left: 50px;
+  position: relative;
+  margin-bottom: 2.6em;
+}
+
+.author-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.author-details {
+  display: flex;
+  flex-direction: column;
+  font-family: poppins;
+  font-weight: 500;
+}
+
+.author-name {
+  font-weight: 600;
+  font-size: 16px;
+  font-family: poppins;
+  font-weight: 500;
+}
+
+.author-date {
+  font-size: 16px;
+  color: #666;
+  font-family: poppins;
+  font-weight: 500;
+}
+
+.follow-button {
+  padding: 5px 14px;
+  border: 1px solid black;
+  background: white;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: poppins;
+  font-weight: 500;
+}
+
+.read-time {
+  font-size: 16px;
+  color: #777;
+  margin-left: auto;
+  font-family: 'Poppins';
+  font-weight: 400;
+}

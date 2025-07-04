@@ -1,0 +1,36 @@
+.post-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 12px 0;
+  font-size: 14px;
+  width: 1347px;
+  height: 80px;
+  margin-bottom: 6em;
+}
+
+.left-icons {
+  display: flex;
+  gap: 20px;
+}
+
+.icon-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.right-icons {
+  display: flex;
+  gap: 20px;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.icon:hover {
+  opacity: 0.7;
+}
